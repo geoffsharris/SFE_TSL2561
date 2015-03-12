@@ -11,8 +11,8 @@
 	version 1.0 2013/09/20 MDG initial version
 */
 
-#include <SFE_TSL2561.h>
-#include <Wire.h>
+#include "SFE_TSL2561.h"
+//#include <Wire.h>
 
 
 SFE_TSL2561::SFE_TSL2561(void)
